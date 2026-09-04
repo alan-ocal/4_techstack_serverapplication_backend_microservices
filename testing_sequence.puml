@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+'autonumber'
+Domain-> Services : interfaces
+Services -> Testing : tests
+
+
+@enduml
